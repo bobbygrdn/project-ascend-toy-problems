@@ -4,7 +4,8 @@
   "description": "🎯 Problem: Write a function that takes a number as its argument and returns a string representing that number's simplified fraction.",
   "main": "index.js",
   "scripts": {
-    "test": "jest --json --outputFile=jest-results.json"
+    "test": "jest --json --outputFile=jest-results.json",
+    "generate-report": "node ./utils/generateCustomCoverageReport.js"
   },
   "keywords": [],
   "author": "",
