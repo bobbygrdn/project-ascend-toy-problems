@@ -12,3 +12,4 @@ node_modules/
 jest-results.json
 report.html
 utils/
+coverage/
