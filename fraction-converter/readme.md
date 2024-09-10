@@ -17,3 +17,14 @@
 🧠 Extra Challenge:
 
 - Create tests for your logic
+
+---
+
+⚡ Test Coverage:
+
+* Run the following commands to generate custom test coverage report:
+
+  * `npm run test`
+  * `npm run generate-report`
+
+  *This will create an html file where you can see the time and space necessary to run each test as well as a coverage directory with a Jest specific html file showing test coverage*
